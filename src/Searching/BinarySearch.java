@@ -1,3 +1,4 @@
+//this is a java program to find the index of an target element in a sorted array
 package Searching;
 import java.util.Scanner;
 public class BinarySearch {
