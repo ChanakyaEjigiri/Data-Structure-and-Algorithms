@@ -1,5 +1,5 @@
 //this is a java program to find the index of an target element in a sorted array
-package Searching;
+package searching;
 import java.util.Scanner;
 public class BinarySearch {
 	public static int binarySearch(int[] arr, int target) {
